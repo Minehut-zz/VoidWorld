@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="voidworld">
+    <output-path>$USER_HOME$/minehut/output/plugins</output-path>
+    <root id="archive" name="voidworld.jar">
+      <element id="module-output" name="VoidWorld" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
